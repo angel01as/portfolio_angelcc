@@ -6,7 +6,7 @@ export default function Home() {
       {/* SECCIÓN HERO */}
       <section className="max-w-4xl mx-auto text-center mb-20">
         <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent mb-6">
-          Hola, soy Ángel
+          Hola, soy Ángelito el diablito
         </h1>
         <p className="text-xl text-slate-400 mb-10">
           Desarrollador Full Stack enfocado en crear experiencias digitales modernas.
