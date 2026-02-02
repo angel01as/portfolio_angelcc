@@ -10,7 +10,7 @@ export default function Home() {
           <div className="flex items-center gap-4">
             <div className="h-12 w-12 rounded-full overflow-hidden border border-slate-700">
               {/* Coloca tu foto en /public/avatar.jpg o cambia el src */}
-              <img src="/imagen_perfil" alt="Ángel Caravaca Contreras" className="h-full w-full object-cover" />
+              <img src="/imagen_perfil.png" alt="Ángel Caravaca Contreras" className="h-full w-full object-cover" />
             </div>
             <div className="leading-tight">
               <p className="font-semibold">Ángel Caravaca Contreras</p>
