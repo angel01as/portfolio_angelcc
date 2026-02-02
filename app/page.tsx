@@ -15,7 +15,7 @@ export default function Home() {
         <div className="flex justify-center gap-4">
           {/* BOTÓN DESCARGAR CV */}
           <a 
-            href="/cv.pdf" 
+            href="/CV_%C3%81ngel_Caravaca.pdf" 
             download 
             className="flex items-center gap-2 bg-white text-black px-6 py-3 rounded-full font-semibold hover:bg-blue-400 hover:text-white transition-all"
           >
