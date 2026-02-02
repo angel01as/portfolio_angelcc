@@ -8,7 +8,7 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
           {/* LADO IZQUIERDO: FOTO + NOMBRE */}
           <div className="flex items-center gap-4">
-            <div className="h-12 w-12 rounded-full overflow-hidden border border-slate-700">
+            <div className="h-17 w-17 rounded-full overflow-hidden border border-slate-700">
               {/* Coloca tu foto en /public/avatar.jpg o cambia el src */}
               <img src="/imagen_perfil.png" alt="Ángel Caravaca Contreras" className="h-full w-full object-cover" />
             </div>
@@ -34,10 +34,10 @@ export default function Home() {
       {/* SECCIÓN HERO */}
       <section id="inicio" className="max-w-4xl mx-auto text-center mb-20">
         <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent mb-6">
-          Hola, soy Ángelito el diablito
+          Software Developer
         </h1>
         <p className="text-xl text-slate-400 mb-10">
-          Desarrollador Full Stack enfocado en crear experiencias digitales modernas.
+          Full Stack React | Java | Python | SQL
         </p>
         
         <div className="flex justify-center gap-4">
